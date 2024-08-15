@@ -1,0 +1,291 @@
+molecule,parsed_molecule,link,cas,30s_wait,60s_wait,30s_correct?,60s_correct?
+2-OXOGLUTARIC_ACID,2 OXOGLUTARIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/51,"17091-15-5, 328-50-7, 34410-46-3","17091-15-5, 328-50-7, 34410-46-3, 997-43-3","328-50-7, 34410-46-3, 17091-15-5",n,y
+ACETIC_ACID,ACETIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/176,"285977-76-6, 2887-46-9, 546-67-8, 57745-60-5, 63459-47-2, 64-19-7, 77671-22-8, 8028-52-2","285977-76-6, 2887-46-9, 546-67-8, 57745-60-5, 64-19-7, 77671-22-8, 8028-52-2","64-19-7, 546-67-8, 2887-46-9, 77671-22-8, 57745-60-5, 285977-76-6, 8028-52-2",y,y
+ACETOHEXAMIDE,ACETOHEXAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/1989,"664-95-9, 968-81-0",968-81-0,968-81-0,y,y
+ACETYLSALICYLIC_ACID,ACETYLSALICYLIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/2244,"50-78-2, 621-71-6, 79-34-5",50-78-2,50-78-2,y,y
+ACICLOVIR,ACICLOVIR,https://pubchem.ncbi.nlm.nih.gov/compound/135398513,"125440-97-3, 32467-88-2, 59277-89-3","125440-97-3, 59277-89-3","59277-89-3, 125440-97-3",y,y
+ADENOSINE_TRIPHOSPHATE,ADENOSINE TRIPHOSPHATE,https://pubchem.ncbi.nlm.nih.gov/compound/5957,"11016-17-4, 56-65-5","11016-17-4, 51963-61-2, 56-65-5",56-65-5,n,y
+ALANINE,ALANINE,https://pubchem.ncbi.nlm.nih.gov/compound/5950,"1088-80-8, 1187-84-4, 18875-37-1, 19291-17-9, 1948-31-8, 2018-61-3, 2072-71-1, 2198-64-3, 25191-17-7, 25840-83-9, 25840-84-0, 2799-07-7, 28809-04-3, 302-72-7, 3054-01-1, 35849-41-3, 3695-73-6, 498-40-8, 5191-80-0, 5570-04-7, 56-41-7, 6853-87-8, 6940-98-3, 7298-84-2, 77160-91-9, 949-99-5, 97-69-8","130380-93-7, 18875-37-1, 19291-17-9, 25191-17-7, 25840-83-9, 25840-84-0, 26336-61-8, 28809-04-3, 302-72-7, 56-41-7, 77160-91-9","56-41-7, 26336-61-8, 130380-93-7, 18875-37-1, 25191-17-7, 77160-91-9, 25840-83-9, 25840-84-0, 19291-17-9, 28809-04-3, 302-72-7",y,y
+ALTEPLASE,ALTEPLASE,https://pubchem.ncbi.nlm.nih.gov/compound/Alteplase,"105857-23-6, 105913-11-9",105857-23-6,105857-23-6,y,y
+ALUMINIUM,ALUMINIUM,https://pubchem.ncbi.nlm.nih.gov/compound/5359268,"10043-67-1, 7429-90-5, 91728-14-2","7429-90-5, 91728-14-2","7429-90-5, 91728-14-2",y,y
+AMFETAMINE,AMFETAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/3007,"103-97-9, 2706-50-5, 300-62-9, 60-15-1","300-62-9, 60-15-1","300-62-9, 60-15-1",y,y
+AMIKACIN,AMIKACIN,https://pubchem.ncbi.nlm.nih.gov/compound/37768,"37517-28-5, 39831-55-5",37517-28-5,37517-28-5,y,y
+AMINOPHYLLINE,AMINOPHYLLINE,https://pubchem.ncbi.nlm.nih.gov/compound/9433,"317-34-0, 519-37-9, 95646-60-9","317-34-0, 95646-60-9","317-34-0, 95646-60-9",y,y
+AMPHETAMINE,AMPHETAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/3007,"103-97-9, 2706-50-5, 300-62-9, 60-15-1","300-62-9, 60-15-1","300-62-9, 60-15-1",y,y
+AMPICILLIN,AMPICILLIN,https://pubchem.ncbi.nlm.nih.gov/compound/6249,"69-53-4, 7177-48-2",69-53-4,69-53-4,y,y
+AMYL_NITRITE,AMYL NITRITE,https://pubchem.ncbi.nlm.nih.gov/compound/10026,463-04-7,"463-04-7, 8017-89-8","463-04-7, 8017-89-8",y,y
+ANTHEMIS_NOBILIS,ANTHEMIS NOBILIS,https://pubchem.ncbi.nlm.nih.gov/compound/Chamaemelum%20nobile%20whole,"84649-86-5, 977007-26-3",977007-26-3,977007-26-3,y,y
+ARALIA_RACEMOSA,ARALIA RACEMOSA,https://pubchem.ncbi.nlm.nih.gov/compound/Aralia%20racemosa%20root,89957-50-6,No CAS info,N/A,y,y
+ASFOTASE_ALFA,ASFOTASE ALFA,https://pubchem.ncbi.nlm.nih.gov/compound/Asfotase%20Alfa,"1174277-80-5, 854107-55-4",1174277-80-5,1174277-80-5,y,y
+ASPARTIC_ACID,ASPARTIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/5960,"13184-27-5, 145224-96-0, 25608-40-6, 34345-47-6, 39162-75-9, 55443-54-4, 56-84-8, 617-45-8, 6899-03-2","145224-96-0, 25608-40-6, 34345-47-6, 39162-75-9, 55443-54-4, 56-84-8, 617-45-8, 6899-03-2","56-84-8, 39162-75-9, 617-45-8, 25608-40-6, 145224-96-0, 6899-03-2, 34345-47-6, 55443-54-4",y,y
+AUROTHIOMALIC_ACID,AUROTHIOMALIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/422786,33796-26-8,"12244-57-4, 33796-26-8",33796-26-8,n,y
+AVOBENZONE,AVOBENZONE,https://pubchem.ncbi.nlm.nih.gov/compound/51040,"23644-60-2, 70356-09-1",70356-09-1,"70356-09-1, 23644-60-2",n,y
+AZTREONAM,AZTREONAM,https://pubchem.ncbi.nlm.nih.gov/compound/5742832,"78110-38-0, 827611-49-4, 99341-02-3","78110-38-0, 99341-02-3","78110-38-0, 99341-02-3",y,y
+BACLOFEN,BACLOFEN,https://pubchem.ncbi.nlm.nih.gov/compound/2284,1134-47-0,"1134-47-0, 66514-99-6","1134-47-0, 66514-99-6",y,y
+BENAZEPRIL,BENAZEPRIL,https://pubchem.ncbi.nlm.nih.gov/compound/5362124,86541-75-5,"86499-21-0, 86541-75-5","86541-75-5, 86499-21-0",y,y
+BENTOQUATAM,BENTOQUATAM,https://pubchem.ncbi.nlm.nih.gov/compound/Bentoquatam,"1340-69-8, 68953-58-2",1340-69-8,1340-69-8,y,y
+BENZPHETAMINE,BENZPHETAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/5311017,"101-47-3, 156-08-1",156-08-1,156-08-1,y,y
+BEPOTASTINE,BEPOTASTINE,https://pubchem.ncbi.nlm.nih.gov/compound/164522,"1070505-53-1, 125602-71-3",125602-71-3,125602-71-3,y,y
+BERBERIS_VULGARIS,BERBERIS VULGARIS,https://pubchem.ncbi.nlm.nih.gov/compound/Berberis%20Vulgaris%20Root%20Bark,84649-92-3,No CAS info,N/A,y,y
+BETAINE,BETAINE,https://pubchem.ncbi.nlm.nih.gov/compound/247,"107-43-7, 52921-08-1, 590-46-5","107-43-7, 52921-08-1","107-43-7, 52921-08-1",y,y
+BETRIXABAN,BETRIXABAN,https://pubchem.ncbi.nlm.nih.gov/compound/10275777,"330942-05-7, 936539-80-9",330942-05-7,330942-05-7,y,y
+BREXPIPRAZOLE,BREXPIPRAZOLE,https://pubchem.ncbi.nlm.nih.gov/compound/11978813,913611-97-9,"1427049-19-1, 913611-97-9","913611-97-9, 1427049-19-1",y,y
+BROMOCRIPTINE,BROMOCRIPTINE,https://pubchem.ncbi.nlm.nih.gov/compound/31101,"22260-51-1, 25614-03-3",25614-03-3,"25614-03-3, 22260-51-1",n,y
+BUSULFAN,BUSULFAN,https://pubchem.ncbi.nlm.nih.gov/compound/2478,"29166-53-8, 55-93-6, 55-98-1, 729-99-7","29166-53-8, 55-98-1","55-98-1, 29166-53-8",y,y
+CAFFEINE,CAFFEINE,https://pubchem.ncbi.nlm.nih.gov/compound/2519,"58-08-2, 95789-13-2, 99827-19-7","58-08-2, 95789-13-2","58-08-2, 95789-13-2",y,y
+CAPSICUM,CAPSICUM,https://pubchem.ncbi.nlm.nih.gov/compound/Capsicum,"84625-29-6, 85940-30-3, 977007-72-9",977007-72-9,977007-72-9,y,y
+CARMELLOSE,CARMELLOSE,https://pubchem.ncbi.nlm.nih.gov/compound/24748,11/7/9000,"9000-11-7, 9004-32-4","9000-11-7, 9004-32-4",y,y
+CEFOTETAN,CEFOTETAN,https://pubchem.ncbi.nlm.nih.gov/compound/Cefotetan,"69712-56-7, 74356-00-6",69712-56-7,69712-56-7,y,y
+CEFTAROLINE_FOSAMIL,CEFTAROLINE FOSAMIL,https://pubchem.ncbi.nlm.nih.gov/compound/9852981,"229016-73-3, 400827-46-5, 400827-55-6",229016-73-3,229016-73-3,y,y
+CELLULASE,CELLULASE,https://pubchem.ncbi.nlm.nih.gov/compound/440950,"61788-77-0, 9012-54-8","33404-34-1, 61788-77-0, 9012-54-8","61788-77-0, 9012-54-8",n,y
+CETRIMIDE,CETRIMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/Cetrimide,"505-86-2, 57-09-0, 8044-71-1","505-86-2, 8044-71-1","8044-71-1, 505-86-2",y,y
+CHLORAMPHENICOL,CHLORAMPHENICOL,https://pubchem.ncbi.nlm.nih.gov/compound/5959,"103-17-3, 118573-58-3, 2787-09-9, 56-75-7, 93-54-9","118573-58-3, 2787-09-9, 56-75-7","56-75-7, 2787-09-9, 118573-58-3",y,y
+CHLOROXYLENOL,CHLOROXYLENOL,https://pubchem.ncbi.nlm.nih.gov/compound/2723,"124495-18-7, 1321-23-9, 54593-83-8, 88-04-0","1321-23-9, 88-04-0","88-04-0, 1321-23-9",y,y
+CHLORPHENAMINE,CHLORPHENAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/2725,"113-92-8, 132-22-9","113-92-8, 132-22-9, 25523-97-1","25523-97-1, 113-92-8, 132-22-9",y,y
+CHOLESTEROL,CHOLESTEROL,https://pubchem.ncbi.nlm.nih.gov/compound/5997,"1059-85-4, 22243-67-0, 57-88-5, 80-99-9, 9061-77-2","1059-85-4, 22243-67-0, 57-88-5, 9061-77-2","57-88-5, 9061-77-2, 1059-85-4, 22243-67-0",y,y
+CHOLINE_THEOPHYLLINATE,CHOLINE THEOPHYLLINATE,https://pubchem.ncbi.nlm.nih.gov/compound/2153,"58-55-9, 5967-84-0, 8002-89-9","58-55-9, 5967-84-0","58-55-9, 5967-84-0",y,y
+CHROMIUM,CHROMIUM,https://pubchem.ncbi.nlm.nih.gov/compound/23976,"19498-56-7, 257-07-8, 7440-47-3","19498-56-7, 7440-47-3","7440-47-3, 19498-56-7",y,y
+CINEOLE,CINEOLE,https://pubchem.ncbi.nlm.nih.gov/compound/2758,"470-82-6, 8000-48-4","470-82-6, 8024-53-1","470-82-6, 8024-53-1",y,y
+CITRIC_ACID,CITRIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/311,"36291-32-4, 77-92-9",77-92-9,77-92-9,y,y
+CLEMASTINE,CLEMASTINE,https://pubchem.ncbi.nlm.nih.gov/compound/26987,"15686-51-8, 18218-20-7",15686-51-8,15686-51-8,y,y
+CLOBETASOL,CLOBETASOL,https://pubchem.ncbi.nlm.nih.gov/compound/5311051,"1879-77-2, 25122-41-2, 25122-46-7","25122-41-2, 25122-46-7","25122-41-2, 25122-46-7",y,y
+CLOFIBRATE,CLOFIBRATE,https://pubchem.ncbi.nlm.nih.gov/compound/2796,"298-57-7, 36104-80-0, 637-07-0",637-07-0,637-07-0,y,y
+COAL_TAR,COAL TAR,https://pubchem.ncbi.nlm.nih.gov/compound/Coal%20Tar,"1314-13-2, 505-60-2, 65996-89-6, 8007-45-2, 8030-30-6, 9005-25-8",8007-45-2,8007-45-2,y,y
+CODEINE,CODEINE,https://pubchem.ncbi.nlm.nih.gov/compound/5284371,"130320-48-8, 6059-47-8, 76-57-3","6059-47-8, 76-57-3","76-57-3, 6059-47-8",y,y
+COLECALCIFEROL,COLECALCIFEROL,https://pubchem.ncbi.nlm.nih.gov/compound/5280795,"1406-16-2, 22350-41-0, 67-97-0","1406-16-2, 67-97-0, 8050-67-7","67-97-0, 1406-16-2, 8050-67-7",y,y
+COLLAGEN,COLLAGEN,https://pubchem.ncbi.nlm.nih.gov/compound/Collagen,"9007-34-5, 9050-08-2",9007-34-5,9007-34-5,y,y
+CORTICOTROPIN,CORTICOTROPIN,https://pubchem.ncbi.nlm.nih.gov/compound/Corticotropin,"12279-41-3, 12427-33-7, 9002-60-2","12427-33-7, 9002-60-2","9002-60-2, 12427-33-7",y,y
+CREATINE,CREATINE,https://pubchem.ncbi.nlm.nih.gov/compound/586,57-00-1,"57-00-1, 6020-87-7","57-00-1, 6020-87-7",y,y
+CRYSTAL_VIOLET,CRYSTAL VIOLET,https://pubchem.ncbi.nlm.nih.gov/compound/11057,"467-63-0, 548-62-9",548-62-9,548-62-9,y,y
+CYCLOPHOSPHAMIDE,CYCLOPHOSPHAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/2907,"50-18-0, 60007-96-7, 6055-19-2","50-18-0, 6055-19-2","50-18-0, 6055-19-2",y,y
+CYCLOSERINE,CYCLOSERINE,https://pubchem.ncbi.nlm.nih.gov/compound/6234,"68-39-3, 68-41-7",68-41-7,68-41-7,y,y
+DACTINOMYCIN,DACTINOMYCIN,https://pubchem.ncbi.nlm.nih.gov/compound/457193,"50-76-0, 8052-16-2",50-76-0,50-76-0,y,y
+DALTEPARIN_SODIUM,DALTEPARIN SODIUM,https://pubchem.ncbi.nlm.nih.gov/compound/Dalteparin%20Sodium,"9005-49-6, 9041-08-1",9041-08-1,9041-08-1,y,y
+DEANOL,DEANOL,https://pubchem.ncbi.nlm.nih.gov/compound/7902,"108-01-0, 5988-51-2",108-01-0,108-01-0,y,y
+DEFEROXAMINE,DEFEROXAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/2973,"138-14-7, 1950-39-6, 70-51-9","1950-39-6, 70-51-9","70-51-9, 1950-39-6",y,y
+DEOXYCHOLIC_ACID,DEOXYCHOLIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/222528,"302-95-4, 83-44-3",83-44-3,83-44-3,y,y
+DESIPRAMINE,DESIPRAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/2995,"50-47-5, 58-28-6",50-47-5,50-47-5,y,y
+DEXAMETHASONE,DEXAMETHASONE,https://pubchem.ncbi.nlm.nih.gov/compound/5743,"1177-87-3, 2265-64-7, 23495-06-9, 3936-02-5, 50-02-2","23495-06-9, 50-02-2","50-02-2, 23495-06-9",y,y
+DIATRIZOIC_ACID,DIATRIZOIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/2140,"117-96-4, 124-88-9, 50978-11-5, 519-26-6","117-96-4, 50978-11-5","117-96-4, 50978-11-5",y,y
+DIAZEPAM,DIAZEPAM,https://pubchem.ncbi.nlm.nih.gov/compound/3016,"2888-64-4, 439-14-5",439-14-5,439-14-5,y,y
+DICLOFENAC,DICLOFENAC,https://pubchem.ncbi.nlm.nih.gov/compound/3033,15307-86-5,"15307-86-5, 78213-16-8","15307-86-5, 78213-16-8",y,y
+DIENESTROL,DIENESTROL,https://pubchem.ncbi.nlm.nih.gov/compound/667476,"13029-44-2, 5635-50-7, 569-57-3, 84-17-3, 84-19-5","13029-44-2, 84-17-3, 84-19-5","84-17-3, 13029-44-2, 84-19-5",y,y
+DIETHYLTOLUAMIDE,DIETHYLTOLUAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/4284,"134-62-3, 26545-51-7, 81178-30-5","134-62-3, 26545-51-7","134-62-3, 26545-51-7",y,y
+DIGOXIN,DIGOXIN,https://pubchem.ncbi.nlm.nih.gov/compound/2724385,"20830-75-5, 5511-98-8",20830-75-5,20830-75-5,y,y
+DIMETHYL_FUMARATE,DIMETHYL FUMARATE,https://pubchem.ncbi.nlm.nih.gov/compound/637568,"152443-03-3, 23055-10-9, 617-53-8, 624-49-7","152443-03-3, 23055-10-9, 624-49-7","624-49-7, 23055-10-9, 152443-03-3",y,y
+DIPHENHYDRAMINE,DIPHENHYDRAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/3100,"147-24-0, 58-73-1, 86-24-8","147-24-0, 58-73-1","58-73-1, 147-24-0",y,y
+DL-LACTIC_ACID,DL-LACTIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/612,"26100-51-6, 50-21-5, 598-82-3, 828-01-3","26100-51-6, 50-21-5, 598-82-3","50-21-5, 598-82-3, 26100-51-6",y,y
+DOCONEXENT,DOCONEXENT,https://pubchem.ncbi.nlm.nih.gov/compound/445580,"25167-62-8, 6217-54-5, 81926-94-5","25167-62-8, 6217-54-5","6217-54-5, 25167-62-8",y,y
+DOCOSAHEXANOIC_ACID,DOCOSAHEXANOIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/445580,"25167-62-8, 6217-54-5, 81926-94-5","25167-62-8, 6217-54-5","6217-54-5, 25167-62-8",y,y
+DORIPENEM,DORIPENEM,https://pubchem.ncbi.nlm.nih.gov/compound/73303,"148016-81-3, 364622-82-2",148016-81-3,148016-81-3,y,y
+DRONABINOL,DRONABINOL,https://pubchem.ncbi.nlm.nih.gov/compound/16078,"1972-08-3, 5957-75-5, 6465-30-1","1972-08-3, 6465-30-1","1972-08-3, 6465-30-1",y,y
+DROSERA_ROTUNDIFOLIA,DROSERA ROTUNDIFOLIA,https://pubchem.ncbi.nlm.nih.gov/compound/Drosera%20Rotundifolia,84696-10-6,No CAS info,N/A,y,y
+DULOXETINE,DULOXETINE,https://pubchem.ncbi.nlm.nih.gov/compound/60835,"116539-59-4, 116817-13-1, 136434-34-9","116539-59-4, 136434-34-9","116539-59-4, 136434-34-9",y,y
+DUVELISIB,DUVELISIB,https://pubchem.ncbi.nlm.nih.gov/compound/50905713,"1201438-56-3, 1386861-49-9",1201438-56-3,1201438-56-3,y,y
+ECHINACEA_ANGUSTIFOLIA,ECHINACEA ANGUSTIFOLIA,https://pubchem.ncbi.nlm.nih.gov/compound/Echinacea%20Angustifolia,84696-11-7,No CAS info,N/A,y,y
+ECHINACEA_PURPUREA,ECHINACEA PURPUREA,https://pubchem.ncbi.nlm.nih.gov/compound/Echinacea%20purpurea%20whole,90028-20-9,No CAS info,N/A,y,y
+EDETIC_ACID,EDETIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/6049,"139-33-3, 15375-84-5, 15954-91-3, 23411-34-9, 60-00-4, 62-33-9, 6381-92-6, 688-55-1, 76353-66-7","139-33-3, 15954-91-3, 60-00-4, 62-33-9, 6381-92-6, 688-55-1","139-33-3, 60-00-4, 688-55-1, 15954-91-3, 6381-92-6, 62-33-9",y,y
+EFLORNITHINE,EFLORNITHINE,https://pubchem.ncbi.nlm.nih.gov/compound/3009,70052-12-9,"1069-31-4, 70052-12-9","1069-31-4, 70052-12-9",y,y
+EMAPALUMAB,EMAPALUMAB,https://pubchem.ncbi.nlm.nih.gov/compound/Emapalumab,"1388651-30-6, 1709815-23-5",1709815-23-5,1709815-23-5,y,y
+ENOXAPARIN_SODIUM,ENOXAPARIN SODIUM,https://pubchem.ncbi.nlm.nih.gov/compound/Enoxaparin%20Sodium,"679809-58-6, 9041-08-1",679809-58-6,679809-58-6,y,y
+EQUISETUM_ARVENSE,EQUISETUM ARVENSE,https://pubchem.ncbi.nlm.nih.gov/compound/Equisetum%20arvense%20top,71011-23-9,No CAS info,N/A,y,y
+ERAVACYCLINE,ERAVACYCLINE,https://pubchem.ncbi.nlm.nih.gov/compound/Eravacycline,"1207283-85-9, 1334714-66-7",1207283-85-9,1207283-85-9,y,y
+ERYTHROMYCIN,ERYTHROMYCIN,https://pubchem.ncbi.nlm.nih.gov/compound/12560,"114-07-8, 134-36-1, 215031-94-0, 536-95-8, 5442-22-8, 643-22-1, 7540-22-9, 7704-67-8, 82343-12-2","114-07-8, 215031-94-0, 5442-22-8, 7540-22-9, 7704-67-8, 82343-12-2","7704-67-8, 643-22-1, 114-07-8, 82343-12-2, 215031-94-0, 5442-22-8, 7540-22-9",y,y
+ESTRADIOL,ESTRADIOL,https://pubchem.ncbi.nlm.nih.gov/compound/5757,"17916-67-5, 50-28-2, 56-53-1, 57-91-0","17916-67-5, 50-28-2, 57-91-0","50-28-2, 17916-67-5, 57-91-0",y,y
+ESTROGENIC_SUBSTANCE,ESTROGENIC SUBSTANCE,https://pubchem.ncbi.nlm.nih.gov/compound/5870,"1225-58-7, 19973-76-3, 53-16-7","19973-76-3, 53-16-7","53-16-7, 19973-76-3",y,y
+ESTRONE,ESTRONE,https://pubchem.ncbi.nlm.nih.gov/compound/5870,"1225-58-7, 19973-76-3, 53-16-7","19973-76-3, 53-16-7","53-16-7, 19973-76-3",y,y
+ETHANOLAMINE,ETHANOLAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/700,"12220-07-4, 12220-09-6, 141-43-5, 85047-08-1, 9007-33-4","12220-07-4, 12220-09-6, 141-43-5, 9007-33-4","141-43-5, 12220-07-4, 12220-09-6, 9007-33-4",y,y
+ETHINYLESTRADIOL,ETHINYLESTRADIOL,https://pubchem.ncbi.nlm.nih.gov/compound/5991,"57-63-6, 635-20-1",57-63-6,57-63-6,y,y
+ETHIONAMIDE,ETHIONAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/2761171,"3684-73-9, 536-33-4",536-33-4,536-33-4,y,y
+ETHYLENE_GLYCOL,ETHYLENE GLYCOL,https://pubchem.ncbi.nlm.nih.gov/compound/174,"107-21-1, 25322-68-3, 37225-26-6, 492-70-6","107-21-1, 25322-68-3, 37225-26-6, 3775-85-7","37225-26-6, 107-21-1, 25322-68-3, 3775-85-7",y,y
+ETOMIDATE,ETOMIDATE,https://pubchem.ncbi.nlm.nih.gov/compound/667484,"17321-47-0, 33125-97-2",33125-97-2,33125-97-2,y,y
+EVENING_PRIMROSE_OIL,EVENING PRIMROSE OIL,https://pubchem.ncbi.nlm.nih.gov/compound/Evening%20Primrose%20Oil,"308064-97-3, 65546-85-2, 90028-66-3","308064-97-3, 90028-66-3","308064-97-3, 90028-66-3",y,y
+FENFLURAMINE,FENFLURAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/3337,"3239-45-0, 37577-24-5, 458-24-2",458-24-2,458-24-2,y,y
+FENOFIBRIC_ACID,FENOFIBRIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/64929,"26129-32-8, 42017-89-0",42017-89-0,42017-89-0,y,y
+FILGRASTIM,FILGRASTIM,https://pubchem.ncbi.nlm.nih.gov/compound/Filgrastim,"121181-53-1, 135968-09-1",121181-53-1,121181-53-1,y,y
+FLUOCINOLONE_ACETONIDE,FLUOCINOLONE ACETONIDE,https://pubchem.ncbi.nlm.nih.gov/compound/6215,"14066-79-6, 67-73-2",67-73-2,67-73-2,y,y
+FOLIC_ACID,FOLIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/135398658,"112339-08-9, 112339-32-9, 28559-00-4, 59-30-3, 6484-89-5, 879-39-0","112339-08-9, 112339-32-9, 59-30-3, 6484-89-5","59-30-3, 6484-89-5, 112339-08-9, 112339-32-9",y,y
+FOLLITROPIN_ALFA,FOLLITROPIN ALFA,https://pubchem.ncbi.nlm.nih.gov/compound/Follitropin%20Alfa,"146479-72-3, 56832-30-5",No CAS info,N/A,y,y
+FOLLITROPIN_BETA,FOLLITROPIN BETA,https://pubchem.ncbi.nlm.nih.gov/compound/Follitropin%20Beta,146479-72-3,No CAS info,N/A,y,y
+FOSFESTROL,FOSFESTROL,https://pubchem.ncbi.nlm.nih.gov/compound/3032325,"13425-53-1, 4719-75-9, 522-40-7, 5965-09-3","13425-53-1, 522-40-7, 5965-09-3","522-40-7, 13425-53-1, 5965-09-3",y,y
+FUMARIC_ACID,FUMARIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/444972,"110-17-8, 123548-45-8, 26099-09-2, 498-24-8, 623-91-6, 6915-18-0","110-17-8, 123548-45-8, 26099-09-2, 498-24-8, 6915-18-0","110-17-8, 26099-09-2, 6915-18-0, 498-24-8, 123548-45-8",y,y
+GADODIAMIDE,GADODIAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/153921,"122795-43-1, 131410-48-5",131410-48-5,131410-48-5,y,y
+GAULTHERIA_PROCUMBENS,GAULTHERIA PROCUMBENS,https://pubchem.ncbi.nlm.nih.gov/compound/Gaultheria%20procumbens%20top,977092-74-2,No CAS info,N/A,y,y
+GERANIUM_ROBERTIANUM,GERANIUM ROBERTIANUM,https://pubchem.ncbi.nlm.nih.gov/compound/Geranium%20robertianum%20whole,84650-11-3,No CAS info,N/A,y,y
+GLUCONIC_ACID,GLUCONIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/10690,"10024-51-8, 10361-31-6, 133-42-6, 19222-41-4, 3632-91-5, 3646-68-2, 526-95-4, 527-07-1, 534-42-9","10024-51-8, 10361-31-6, 133-42-6, 19222-41-4, 526-95-4","526-95-4, 19222-41-4, 133-42-6, 10024-51-8, 10361-31-6",y,y
+GLUCOSE,GLUCOSE,https://pubchem.ncbi.nlm.nih.gov/compound/5793,"1227096-09-4, 18991-62-3, 2280-44-6, 26655-34-5, 492-62-6, 50-99-7, 54-17-1, 604-68-2","1227096-09-4, 18991-62-3, 2280-44-6, 26655-34-5, 492-62-6, 50-99-7, 54-17-1","50-99-7, 492-62-6, 2280-44-6, 54-17-1, 18991-62-3, 26655-34-5, 1227096-09-4",y,y
+GLUTAMINE,GLUTAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/5961,"2490-97-3, 26700-71-0, 28047-15-6, 5569-98-2, 56-85-9, 585-21-7, 6899-04-3","26700-71-0, 5569-98-2, 56-85-9, 6899-04-3","56-85-9, 26700-71-0, 6899-04-3, 5569-98-2",y,y
+GLUTARAL,GLUTARAL,https://pubchem.ncbi.nlm.nih.gov/compound/3485,"111-30-8, 5333-22-2, 5337-48-4, 5337-49-5, 6263-83-8","111-30-8, 5333-22-2, 5337-48-4, 5337-49-5","111-30-8, 5337-49-5, 5337-48-4, 5333-22-2",y,y
+GLYCERYL_MONOSTEARATE,GLYCERYL MONOSTEARATE,https://pubchem.ncbi.nlm.nih.gov/compound/24699,"106-11-6, 11099-07-3, 123-94-4, 14811-92-8, 22610-63-5, 31566-31-1, 83138-62-9, 85666-92-8, 91052-47-0","11099-07-3, 123-94-4, 14811-92-8, 22610-63-5, 31566-31-1, 83138-62-9, 85666-92-8, 91052-47-0","11099-07-3, 123-94-4, 31566-31-1, 85666-92-8, 91052-47-0, 14811-92-8, 83138-62-9, 22610-63-5",y,y
+GLYCYRRHIZA_GLABRA,GLYCYRRHIZA GLABRA,https://pubchem.ncbi.nlm.nih.gov/compound/Glycyrrhiza%20Glabra,"5634-39-9, 84775-66-6, 977004-31-1","84775-66-6, 977004-31-1","84775-66-6, 977004-31-1",y,y
+GLYCYRRHIZIC_ACID,GLYCYRRHIZIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/14982,"1405-86-3, 53956-04-0, 79165-06-3",1405-86-3,1405-86-3,y,y
+GUAIACOL,GUAIACOL,https://pubchem.ncbi.nlm.nih.gov/compound/460,"26638-03-9, 28930-19-0, 8001-58-9, 8021-39-4, 90-05-1, 9009-62-5","26638-03-9, 28930-19-0, 8021-39-4, 90-05-1, 9009-62-5","90-05-1, 8021-39-4, 9009-62-5, 26638-03-9, 28930-19-0",y,y
+GUANADREL,GUANADREL,https://pubchem.ncbi.nlm.nih.gov/compound/38521,40580-59-4,"22195-34-2, 40580-59-4",40580-59-4,n,y
+HOMOSALATE,HOMOSALATE,https://pubchem.ncbi.nlm.nih.gov/compound/8362,"118-56-9, 36861-47-9, 588-68-1",118-56-9,118-56-9,y,y
+HYALURONIC_ACID,HYALURONIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/Hyaluronic%20Acid,"125935-84-4, 9004-61-9, 9067-32-7",9004-61-9,9004-61-9,y,y
+HYDROFLUMETHIAZIDE,HYDROFLUMETHIAZIDE,https://pubchem.ncbi.nlm.nih.gov/compound/3647,"135-09-1, 148-56-1",135-09-1,135-09-1,y,y
+HYDROXYCHLOROQUINE,HYDROXYCHLOROQUINE,https://pubchem.ncbi.nlm.nih.gov/compound/3652,"118-42-3, 525-31-5",118-42-3,118-42-3,y,y
+IBUPROFEN,IBUPROFEN,https://pubchem.ncbi.nlm.nih.gov/compound/3672,"15687-27-1, 69-14-7",15687-27-1,15687-27-1,y,y
+ILEX_AQUIFOLIUM,ILEX AQUIFOLIUM,https://pubchem.ncbi.nlm.nih.gov/compound/Ilex%20aquifolium%20flowering%20top,90045-83-3,No CAS info,N/A,y,y
+IMIGLUCERASE,IMIGLUCERASE,https://pubchem.ncbi.nlm.nih.gov/compound/Imiglucerase,"143003-46-7, 154248-97-2",154248-97-2,154248-97-2,y,y
+IMIPRAMINE,IMIPRAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/3696,"50-49-7, 73-07-4",50-49-7,50-49-7,y,y
+INDACATEROL,INDACATEROL,https://pubchem.ncbi.nlm.nih.gov/compound/6918554,312753-06-3,"312753-06-3, 753498-25-8","312753-06-3, 753498-25-8",y,y
+INDAPAMIDE,INDAPAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/3702,"133-36-8, 26807-65-8",26807-65-8,26807-65-8,y,y
+IODINE,IODINE,https://pubchem.ncbi.nlm.nih.gov/compound/807,"7553-56-2, 81-84-5",7553-56-2,7553-56-2,y,y
+IOPAMIDOL,IOPAMIDOL,https://pubchem.ncbi.nlm.nih.gov/compound/65492,"60166-93-0, 60208-45-9, 78314-07-5, 88375-91-1","60166-93-0, 60208-45-9, 88375-91-1","60166-93-0, 60208-45-9, 88375-91-1",y,y
+ISOTRETINOIN,ISOTRETINOIN,https://pubchem.ncbi.nlm.nih.gov/compound/5282379,"2052-63-3, 4759-48-2",4759-48-2,4759-48-2,y,y
+KANAMYCIN,KANAMYCIN,https://pubchem.ncbi.nlm.nih.gov/compound/6032,"25389-94-0, 3847-27-6, 59-01-8, 8063-07-8","3847-27-6, 59-01-8, 8063-07-8","59-01-8, 8063-07-8, 3847-27-6",y,y
+KAOLIN,KAOLIN,https://pubchem.ncbi.nlm.nih.gov/compound/56841936,"1332-58-7, 95077-05-7","1332-58-7, 1340-68-7, 95077-05-7","1340-68-7, 1332-58-7, 95077-05-7",y,y
+KEROSENE,KEROSENE,https://pubchem.ncbi.nlm.nih.gov/compound/Kerosene,"20427-59-2, 298-07-7, 8008-20-6, 8020-83-5",8008-20-6,8008-20-6,y,y
+LABETALOL,LABETALOL,https://pubchem.ncbi.nlm.nih.gov/compound/3869,"36894-69-6, 75659-07-3",36894-69-6,36894-69-6,y,y
+LEVONORGESTREL,LEVONORGESTREL,https://pubchem.ncbi.nlm.nih.gov/compound/Levonorgestrel,"110735-92-7, 797-63-7",797-63-7,797-63-7,y,y
+LEVORPHANOL,LEVORPHANOL,https://pubchem.ncbi.nlm.nih.gov/compound/5359272,"297-90-5, 5985-35-3, 77-07-6","297-90-5, 77-07-6","297-90-5, 77-07-6",y,y
+LIDOCAINE,LIDOCAINE,https://pubchem.ncbi.nlm.nih.gov/compound/3676,137-58-6,"137-58-6, 6108-05-0","137-58-6, 6108-05-0",y,y
+LIMONENE,LIMONENE,https://pubchem.ncbi.nlm.nih.gov/compound/22311,"138-86-3, 7705-14-8, 8016-20-4, 9003-73-0","138-86-3, 5989-27-5, 7705-14-8, 8016-20-4, 9003-73-0","138-86-3, 5989-27-5, 7705-14-8, 8016-20-4, 9003-73-0",y,y
+LINDANE,LINDANE,https://pubchem.ncbi.nlm.nih.gov/compound/Lindane,"58-89-9, 608-73-1",58-89-9,58-89-9,y,y
+LIOTHYRONINE,LIOTHYRONINE,https://pubchem.ncbi.nlm.nih.gov/compound/5920,"15785-49-6, 5714-08-9, 5817-39-0, 6893-02-3","15785-49-6, 6893-02-3","6893-02-3, 15785-49-6",y,y
+LOBELIA_INFLATA,LOBELIA INFLATA,https://pubchem.ncbi.nlm.nih.gov/compound/Lobelia%20Inflata,84696-23-1,No CAS info,N/A,y,y
+LOLIUM_PERENNE,LOLIUM PERENNE,https://pubchem.ncbi.nlm.nih.gov/compound/Lolium%20perenne%20Pollen,90063-63-1,No CAS info,N/A,y,y
+LOMUSTINE,LOMUSTINE,https://pubchem.ncbi.nlm.nih.gov/compound/3950,"13010-47-4, 27963-65-1",13010-47-4,13010-47-4,y,y
+LYSINE,LYSINE,https://pubchem.ncbi.nlm.nih.gov/compound/5962,"20166-34-1, 25104-18-1, 39665-12-8, 56-87-1","20166-34-1, 25104-18-1, 56-87-1, 57282-49-2","56-87-1, 57282-49-2, 20166-34-1, 25104-18-1",y,y
+MALIC_ACID,MALIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/525,"143435-96-5, 180991-05-3, 617-48-1, 6915-15-7, 97-67-6","143435-96-5, 180991-05-3, 617-48-1, 6915-15-7","6915-15-7, 617-48-1, 180991-05-3, 143435-96-5",y,y
+MALONIC_ACID,MALONIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/867,"141-82-2, 15467-21-7, 183133-72-4, 2757-18-8","141-82-2, 15467-21-7","141-82-2, 15467-21-7",y,y
+MATRICARIA_CHAMOMILLA,MATRICARIA CHAMOMILLA,https://pubchem.ncbi.nlm.nih.gov/compound/Matricaria%20chamomilla,977001-96-9,No CAS info,N/A,y,y
+MECASERMIN,MECASERMIN,https://pubchem.ncbi.nlm.nih.gov/compound/Mecasermin,"67763-96-6, 68562-41-4",68562-41-4,68562-41-4,y,y
+MELISSA_OFFICINALIS,MELISSA OFFICINALIS,https://pubchem.ncbi.nlm.nih.gov/compound/Melissa%20officinalis,"8014-71-9, 977051-08-3",977051-08-3,977051-08-3,y,y
+MELPHALAN,MELPHALAN,https://pubchem.ncbi.nlm.nih.gov/compound/460612,"1465-26-5, 148-82-3, 2185-97-9, 531-76-0","1465-26-5, 148-82-3, 2185-97-9","148-82-3, 2185-97-9, 1465-26-5",y,y
+MENTHOL,MENTHOL,https://pubchem.ncbi.nlm.nih.gov/compound/1254,"1490-04-6, 15356-70-4, 2216-51-5, 491-01-0, 491-02-1, 89-78-1","1490-04-6, 15356-70-4, 2216-52-6, 23283-97-8, 3623-52-7, 491-01-0, 491-02-1, 89-78-1","1490-04-6, 23283-97-8, 89-78-1, 2216-52-6, 15356-70-4, 491-01-0, 491-02-1",n,y
+MEPROBAMATE,MEPROBAMATE,https://pubchem.ncbi.nlm.nih.gov/compound/4064,"57-37-4, 57-53-4, 63808-42-4, 8056-21-1, 8058-88-6","57-53-4, 63808-42-4","57-53-4, 63808-42-4",y,y
+MESALAZINE,MESALAZINE,https://pubchem.ncbi.nlm.nih.gov/compound/4075,"40187-51-7, 51481-17-5, 89-57-6","51481-17-5, 89-57-6","89-57-6, 51481-17-5",y,y
+METAXALONE,METAXALONE,https://pubchem.ncbi.nlm.nih.gov/compound/15459,"1665-48-1, 8015-12-1",1665-48-1,1665-48-1,y,y
+METHADONE,METHADONE,https://pubchem.ncbi.nlm.nih.gov/compound/4095,"125-58-6, 76-99-3",76-99-3,76-99-3,y,y
+METHAZOLAMIDE,METHAZOLAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/Methazolamide,"100-97-0, 554-57-4",554-57-4,554-57-4,y,y
+METHOTREXATE,METHOTREXATE,https://pubchem.ncbi.nlm.nih.gov/compound/126941,"133073-73-1, 2410-93-7, 59-05-2, 6975-77-5","133073-73-1, 59-05-2","59-05-2, 133073-73-1",y,y
+METHYLENE_BLUE,METHYLENE BLUE,https://pubchem.ncbi.nlm.nih.gov/compound/6099,"2650-18-2, 61-73-4, 7220-79-3, 97130-83-1","61-73-4, 7220-79-3, 97130-83-1","61-73-4, 7220-79-3, 97130-83-1",y,y
+METHYLPREDNISOLONE,METHYLPREDNISOLONE,https://pubchem.ncbi.nlm.nih.gov/compound/6741,"52479-85-3, 83-43-2",83-43-2,83-43-2,y,y
+METOCLOPRAMIDE,METOCLOPRAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/4168,"364-62-5, 7232-21-5",364-62-5,364-62-5,y,y
+MITOXANTRONE,MITOXANTRONE,https://pubchem.ncbi.nlm.nih.gov/compound/4212,"65271-80-9, 70476-82-3",65271-80-9,65271-80-9,y,y
+MORPHINE,MORPHINE,https://pubchem.ncbi.nlm.nih.gov/compound/5288826,"23552-18-3, 57-27-2, 6009-81-0","23552-18-3, 57-27-2","57-27-2, 23552-18-3",y,y
+NALMEFENE,NALMEFENE,https://pubchem.ncbi.nlm.nih.gov/compound/5284594,"1228646-70-5, 55096-26-9",55096-26-9,55096-26-9,y,y
+NASTURTIUM_OFFICINALE,NASTURTIUM OFFICINALE,https://pubchem.ncbi.nlm.nih.gov/compound/Nasturtium%20officinale,84775-70-2,No CAS info,N/A,y,y
+NEOSTIGMINE,NEOSTIGMINE,https://pubchem.ncbi.nlm.nih.gov/compound/4456,"588-17-0, 59-99-4",59-99-4,59-99-4,y,y
+NICOTINAMIDE,NICOTINAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/936,"11032-50-1, 51-12-7, 98-92-0","11032-50-1, 98-92-0","98-92-0, 11032-50-1",y,y
+NICOTINE,NICOTINE,https://pubchem.ncbi.nlm.nih.gov/compound/89594,"22083-74-5, 54-11-5, 54-11-5 22083-74-5, 59-26-7","54-11-5, 54-11-5 22083-74-5","54-11-5, 54-11-5
+22083-74-5",y,y
+NITROGLYCERIN,NITROGLYCERIN,https://pubchem.ncbi.nlm.nih.gov/compound/4510,"27247-96-7, 55-63-0",55-63-0,55-63-0,y,y
+NONOXINOL_9,NONOXINOL 9,https://pubchem.ncbi.nlm.nih.gov/compound/Nonoxynol-9,"24356-60-3, 26027-38-3, 26571-11-9, 9016-45-9","26027-38-3, 26571-11-9, 9016-45-9","9016-45-9, 26027-38-3, 26571-11-9",y,y
+OCTREOTIDE,OCTREOTIDE,https://pubchem.ncbi.nlm.nih.gov/compound/448601,83150-76-9,"79517-01-4, 83150-76-9","83150-76-9, 79517-01-4",y,y
+OLEA_EUROPEA,OLEA EUROPEA,https://pubchem.ncbi.nlm.nih.gov/compound/Olea%20europaea%20Pollen,8001-25-0,No CAS info,N/A,y,y
+OLSALAZINE,OLSALAZINE,https://pubchem.ncbi.nlm.nih.gov/compound/Olsalazine,"15722-48-2, 6054-98-4",15722-48-2,15722-48-2,y,y
+OMADACYCLINE,OMADACYCLINE,https://pubchem.ncbi.nlm.nih.gov/compound/Omadacycline,"1075240-43-5, 389139-89-3",389139-89-3,389139-89-3,y,y
+OVALBUMIN,OVALBUMIN,https://pubchem.ncbi.nlm.nih.gov/compound/Ovalbumin,"9006-59-1, 9013-90-5",9006-59-1,9006-59-1,y,y
+OXALIPLATIN,OXALIPLATIN,https://pubchem.ncbi.nlm.nih.gov/compound/9887053,No CAS info,61825-94-3,61825-94-3,y,y
+OXITRIPTAN,OXITRIPTAN,https://pubchem.ncbi.nlm.nih.gov/compound/439280,"4350-09-8, 56-69-9, 594-56-9","4350-09-8, 56-69-9","56-69-9, 4350-09-8",y,y
+OXYMETHOLONE,OXYMETHOLONE,https://pubchem.ncbi.nlm.nih.gov/compound/5281034,"434-07-1, 999-97-3",434-07-1,434-07-1,y,y
+PALMARIA_PALMATA,PALMARIA PALMATA,https://pubchem.ncbi.nlm.nih.gov/compound/Palmaria%20palmata,"223751-74-4, 977007-74-1",223751-74-4,223751-74-4,y,y
+PAMABROM,PAMABROM,https://pubchem.ncbi.nlm.nih.gov/compound/11806,"330-54-1, 606-04-2, 671-88-5",606-04-2,606-04-2,y,y
+PAMIDRONIC_ACID,PAMIDRONIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/4674,40391-99-9,"40391-99-9, 57248-88-1",40391-99-9,n,y
+PANTOTHENIC_ACID,PANTOTHENIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/6613,"599-54-2, 79-83-4",79-83-4,79-83-4,y,y
+PARACETAMOL,PARACETAMOL,https://pubchem.ncbi.nlm.nih.gov/compound/1983,"103-90-2, 950-81-2",103-90-2,103-90-2,y,y
+PEMOLINE,PEMOLINE,https://pubchem.ncbi.nlm.nih.gov/compound/4723,"2152-34-3, 548-39-0, 6836-10-8","2152-34-3, 6836-10-8","2152-34-3, 6836-10-8",y,y
+PENCICLOVIR,PENCICLOVIR,https://pubchem.ncbi.nlm.nih.gov/compound/135398748,"39809-25-1, 97845-62-0",39809-25-1,39809-25-1,y,y
+PENICILLAMINE,PENICILLAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/5852,"2219-30-9, 52-66-4, 52-67-5, 771431-20-0","52-66-4, 52-67-5, 771431-20-0","771431-20-0, 52-67-5, 52-66-4",y,y
+PENICILLIN_G,PENICILLIN G,https://pubchem.ncbi.nlm.nih.gov/compound/5904,"142762-73-0, 61-33-6",61-33-6,61-33-6,y,y
+PENICILLIN_V,PENICILLIN V,https://pubchem.ncbi.nlm.nih.gov/compound/6869,"6591-72-6, 87-08-1",87-08-1,87-08-1,y,y
+PENTETIC_ACID,PENTETIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/3053,"2531-75-1, 67-43-6",67-43-6,67-43-6,y,y
+PENTOBARBITAL,PENTOBARBITAL,https://pubchem.ncbi.nlm.nih.gov/compound/4737,"115-58-2, 5767-32-8, 76-74-4","5767-32-8, 76-74-4","76-74-4, 5767-32-8",y,y
+PEPSIN,PEPSIN,https://pubchem.ncbi.nlm.nih.gov/compound/727,"119911-69-2, 27154-44-5, 319-84-6, 319-85-7, 58-89-9, 608-73-1, 6108-10-7, 6108-11-8, 6108-12-9, 9001-75-6","119911-69-2, 27154-44-5, 319-84-6, 319-85-7, 58-89-9, 608-73-1, 6108-10-7, 6108-11-8, 6108-12-9, 6108-13-0, 9001-75-6","319-85-7, 608-73-1, 319-84-6, 58-89-9, 6108-10-7, 6108-11-8, 6108-12-9, 6108-13-0, 27154-44-5, 9001-75-6, 119911-69-2",y,y
+PERMETHRIN,PERMETHRIN,https://pubchem.ncbi.nlm.nih.gov/compound/40326,"100784-20-1, 127-59-3, 52341-32-9, 52341-33-0, 52645-53-1, 93389-07-2","52341-32-9, 52341-33-0, 52645-53-1, 93389-07-2","52645-53-1, 52341-32-9, 52341-33-0, 93389-07-2",y,y
+PHENAZONE,PHENAZONE,https://pubchem.ncbi.nlm.nih.gov/compound/2206,"1698-60-8, 230-17-1, 60-80-0",60-80-0,60-80-0,y,y
+PHENELZINE,PHENELZINE,https://pubchem.ncbi.nlm.nih.gov/compound/3675,"51-71-8, 5470-36-0",51-71-8,51-71-8,y,y
+PHENOL,PHENOL,https://pubchem.ncbi.nlm.nih.gov/compound/996,"108-95-2, 2122-46-5, 27073-41-2, 73607-76-8, 87-86-5","108-95-2, 2122-46-5, 27073-41-2, 73607-76-8","108-95-2, 27073-41-2, 73607-76-8, 2122-46-5",y,y
+PHENOLPHTHALEIN,PHENOLPHTHALEIN,https://pubchem.ncbi.nlm.nih.gov/compound/4764,"115-33-3, 5768-87-6, 77-09-8, 77-09-8 5768-87-6","5768-87-6, 77-09-8, 77-09-8 5768-87-6","77-09-8, 77-09-8
+5768-87-6, 5768-87-6",y,y
+PIMAVANSERIN,PIMAVANSERIN,https://pubchem.ncbi.nlm.nih.gov/compound/10071196,706779-91-1,"706779-91-1, 706782-28-7",706779-91-1,n,y
+PINUS_STROBUS,PINUS STROBUS,https://pubchem.ncbi.nlm.nih.gov/compound/Pinus%20strobus%20pollen,90082-77-2,No CAS info,N/A,y,y
+PIPECURONIUM_BROMIDE,PIPECURONIUM BROMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/65332,"52212-02-9, 68399-57-5",52212-02-9,52212-02-9,y,y
+PLANTAGO_MAJOR,PLANTAGO MAJOR,https://pubchem.ncbi.nlm.nih.gov/compound/Plantago%20Major,84929-43-1,No CAS info,N/A,y,y
+POLOXAMER_407,POLOXAMER 407,https://pubchem.ncbi.nlm.nih.gov/compound/Poloxamer%20407,"691397-13-4, 9003-11-6",691397-13-4,691397-13-4,y,y
+POLYSTYRENE_SULFONATE,POLYSTYRENE SULFONATE,https://pubchem.ncbi.nlm.nih.gov/compound/Tolevamer,"28210-41-5, 9002-23-7",28210-41-5,28210-41-5,y,y
+POLYURETHANE,POLYURETHANE,https://pubchem.ncbi.nlm.nih.gov/compound/Polyurethane,"53504-41-9, 65916-86-1, 68258-82-2, 9009-54-5",No CAS info,N/A,y,y
+POLYVINYL_ALCOHOL,POLYVINYL ALCOHOL,https://pubchem.ncbi.nlm.nih.gov/compound/Polyvinyl%20Alcohol,"50-00-0, 9002-89-5",9002-89-5,9002-89-5,y,y
+PRALIDOXIME,PRALIDOXIME,https://pubchem.ncbi.nlm.nih.gov/compound/135398747,"25615-00-3, 45765-69-3, 6735-59-7, 94-63-3","25615-00-3, 45765-69-3, 6735-59-7","6735-59-7, 45765-69-3, 25615-00-3",y,y
+PREDNISONE,PREDNISONE,https://pubchem.ncbi.nlm.nih.gov/compound/5865,"125-10-0, 53-03-2",53-03-2,53-03-2,y,y
+PROGESTERONE,PROGESTERONE,https://pubchem.ncbi.nlm.nih.gov/compound/5994,"2000-66-0, 432-60-0, 57-83-0, 8000-03-1",57-83-0,57-83-0,y,y
+PROMETHAZINE,PROMETHAZINE,https://pubchem.ncbi.nlm.nih.gov/compound/4927,"2090-54-2, 38878-40-9, 60-87-7, 7647-63-4","38878-40-9, 60-87-7","60-87-7, 38878-40-9",y,y
+PROPYLENE_GLYCOL,PROPYLENE GLYCOL,https://pubchem.ncbi.nlm.nih.gov/compound/1030,"115-76-4, 115-77-5, 126-30-7, 2209-86-1, 2736-80-3, 3296-90-0, 57-55-6, 63625-56-9","2736-80-3, 57-55-6, 63625-56-9","57-55-6, 2736-80-3, 63625-56-9",y,y
+PSEUDOEPHEDRINE,PSEUDOEPHEDRINE,https://pubchem.ncbi.nlm.nih.gov/compound/7028,"321-97-1, 90-82-4",90-82-4,90-82-4,y,y
+PYRITHIONE_ZINC,PYRITHIONE ZINC,https://pubchem.ncbi.nlm.nih.gov/compound/26041,"13327-60-1, 13463-41-7",13463-41-7,13463-41-7,y,y
+PYROXYLIN,PYROXYLIN,https://pubchem.ncbi.nlm.nih.gov/compound/Pyroxylin,"28507-02-0, 55589-62-3, 9004-70-0",9004-70-0,9004-70-0,y,y
+QUERCETIN,QUERCETIN,https://pubchem.ncbi.nlm.nih.gov/compound/5280343,"117-39-5, 625-55-8","117-39-5, 6151-25-3","117-39-5, 6151-25-3",y,y
+QUERCUS_ALBA,QUERCUS ALBA,https://pubchem.ncbi.nlm.nih.gov/compound/Quercus%20alba%20pollen,68917-11-3,No CAS info,N/A,y,y
+QUERCUS_ROBUR,QUERCUS ROBUR,https://pubchem.ncbi.nlm.nih.gov/compound/Quercus%20robur%20flower,71011-28-4,No CAS info,N/A,y,y
+RACEPHEDRINE,RACEPHEDRINE,https://pubchem.ncbi.nlm.nih.gov/compound/5032,"299-42-3, 53214-57-6, 90-81-3","299-42-3, 53214-57-6, 90-81-3, 90-82-4","90-82-4, 53214-57-6, 90-81-3, 299-42-3",y,y
+RAMELTEON,RAMELTEON,https://pubchem.ncbi.nlm.nih.gov/compound/208902,"196597-26-9, 896736-20-2",196597-26-9,196597-26-9,y,y
+RANITIDINE,RANITIDINE,https://pubchem.ncbi.nlm.nih.gov/compound/3001055,82530-72-1,"66357-35-5, 82530-72-1","66357-35-5, 82530-72-1",y,y
+RANOLAZINE,RANOLAZINE,https://pubchem.ncbi.nlm.nih.gov/compound/56959,"142387-99-3, 95635-55-5, 95635-56-6","142387-99-3, 95635-55-5","95635-55-5, 142387-99-3",y,y
+RAPHANUS_SATIVUS,RAPHANUS SATIVUS,https://pubchem.ncbi.nlm.nih.gov/compound/Raphanus%20Sativus,84775-94-0,No CAS info,N/A,y,y
+RAUWOLFIA_SERPENTINA,RAUWOLFIA SERPENTINA,https://pubchem.ncbi.nlm.nih.gov/compound/Rauwolfia%20Serpentina,"8063-17-0, 90106-13-1",8063-17-0,8063-17-0,y,y
+RIBOSE,RIBOSE,https://pubchem.ncbi.nlm.nih.gov/compound/10975657,"10018-08-3, 10257-32-6, 50-69-1, 6748-71-6","10018-08-3, 10257-32-6, 50-69-1","50-69-1, 10257-32-6, 10018-08-3",y,y
+RICINOLEIC_ACID,RICINOLEIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/643684,"141-22-0, 5323-95-5",141-22-0,141-22-0,y,y
+ROPINIROLE,ROPINIROLE,https://pubchem.ncbi.nlm.nih.gov/compound/5095,"132112-35-7, 91374-21-9",91374-21-9,91374-21-9,y,y
+ROPIVACAINE,ROPIVACAINE,https://pubchem.ncbi.nlm.nih.gov/compound/175805,84057-95-4,"84057-95-4, 98626-61-0","84057-95-4, 98626-61-0",y,y
+RUTOSIDE,RUTOSIDE,https://pubchem.ncbi.nlm.nih.gov/compound/5280805,"108916-86-5, 1340-08-5, 153-18-4, 207671-50-9, 250249-75-3","1340-08-5, 153-18-4, 207671-50-9, 250249-75-3","153-18-4, 1340-08-5, 207671-50-9, 250249-75-3",y,y
+SACCHARIN,SACCHARIN,https://pubchem.ncbi.nlm.nih.gov/compound/5143,"128-44-9, 139-05-9, 81-07-2","128-44-9, 81-07-2","128-44-9, 81-07-2",y,y
+SALBUTAMOL,SALBUTAMOL,https://pubchem.ncbi.nlm.nih.gov/compound/2083,18559-94-9,"18559-94-9, 51022-70-9",18559-94-9,n,y
+SALCATONIN,SALCATONIN,https://pubchem.ncbi.nlm.nih.gov/compound/16220016,"135506-95-5, 47931-85-1, 57014-02-5, 9007-12-9","135506-95-5, 47931-85-1, 9007-12-9","9007-12-9, 47931-85-1, 135506-95-5",y,y
+SALICYLAMIDE,SALICYLAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/5147,"121-30-2, 3785-32-8, 65-45-2, 742-20-1","121-30-2, 65-45-2","65-45-2, 121-30-2",y,y
+SALVIA_OFFICINALIS,SALVIA OFFICINALIS,https://pubchem.ncbi.nlm.nih.gov/compound/Salvia%20Officinalis,8022-56-8,No CAS info,N/A,y,y
+SCOPOLAMINE,SCOPOLAMINE,https://pubchem.ncbi.nlm.nih.gov/compound/Scopolamine,"114-49-8, 51-34-3, 6533-68-2","114-49-8, 51-34-3","51-34-3, 114-49-8",y,y
+SEA_SALT,SEA SALT,https://pubchem.ncbi.nlm.nih.gov/compound/sea%20salt,7647-14-5,No CAS info,N/A,y,y
+SECRETIN,SECRETIN,https://pubchem.ncbi.nlm.nih.gov/compound/Secretin,"108153-74-8, 1393-25-5, 17034-35-4",1393-25-5,1393-25-5,y,y
+SENNA,SENNA,https://pubchem.ncbi.nlm.nih.gov/compound/5199,"517-43-1, 62211-03-4, 81-27-6, 85085-71-8","517-43-1, 62211-03-4, 8013-11-4, 81-27-6, 85085-71-8","8013-11-4, 517-43-1, 81-27-6, 85085-71-8, 62211-03-4",y,y
+SERINE,SERINE,https://pubchem.ncbi.nlm.nih.gov/compound/5951,"115-02-6, 302-84-1, 56-45-1, 6898-95-9","302-84-1, 56-45-1, 6898-95-9","56-45-1, 302-84-1, 6898-95-9",y,y
+SEROTONIN,SEROTONIN,https://pubchem.ncbi.nlm.nih.gov/compound/5202,"50-67-9, 61-47-2",50-67-9,50-67-9,y,y
+SEVELAMER,SEVELAMER,https://pubchem.ncbi.nlm.nih.gov/compound/Sevelamer,"152751-57-0, 182815-43-6, 52757-95-6, 845273-93-0",52757-95-6,52757-95-6,y,y
+SILICON_DIOXIDE,SILICON DIOXIDE,https://pubchem.ncbi.nlm.nih.gov/compound/24261,"11126-22-0, 112926-00-8, 112945-52-5, 121375-93-7, 13778-37-5, 13778-38-6, 14464-46-1, 14639-89-5, 14808-60-7, 15468-32-3, 17679-64-0, 20243-18-9, 60676-86-0, 61790-53-2, 7631-86-9, 91053-39-3, 92283-58-4, 99439-28-8","11126-22-0, 112926-00-8, 112945-52-5, 121375-93-7, 13778-37-5, 13778-38-6, 14464-46-1, 14639-89-5, 14808-60-7, 15468-32-3, 17679-64-0, 20243-18-9, 60676-86-0, 61790-53-2, 68855-54-9, 7631-86-9, 91053-39-3, 92283-58-4, 99439-28-8","14464-46-1, 61790-53-2, 91053-39-3, 112945-52-5, 112926-00-8, 60676-86-0, 7631-86-9, 68855-54-9, 14639-89-5, 14808-60-7, 13778-37-5, 15468-32-3, 20243-18-9, 13778-38-6, 17679-64-0, 92283-58-4, 99439-28-8, 11126-22-0, 121375-93-7",y,y
+SILYBUM_MARIANUM,SILYBUM MARIANUM,https://pubchem.ncbi.nlm.nih.gov/compound/Milk%20Thistle,"65666-07-1, 84604-20-6, 92874-98-1","65666-07-1, 84604-20-6","65666-07-1, 84604-20-6",y,y
+SORBIC_ACID,SORBIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/643460,"110-44-1, 22500-92-1, 82159-09-9, 91751-55-2","110-44-1, 22500-92-1, 91751-55-2","110-44-1, 22500-92-1, 91751-55-2",y,y
+SORBITOL,SORBITOL,https://pubchem.ncbi.nlm.nih.gov/compound/5780,"32647-67-9, 50-70-4, 6284-40-8, 6966-09-2, 7208-47-1, 98201-93-5","50-70-4, 98201-93-5","50-70-4, 98201-93-5",y,y
+SPECTINOMYCIN,SPECTINOMYCIN,https://pubchem.ncbi.nlm.nih.gov/compound/15541,"1695-77-8, 21736-83-4","1695-77-8, 21736-83-4, 22189-32-8","1695-77-8, 21736-83-4, 22189-32-8",y,y
+SPIRONOLACTONE,SPIRONOLACTONE,https://pubchem.ncbi.nlm.nih.gov/compound/5833,"52-01-7, 976-70-5",52-01-7,52-01-7,y,y
+STELLARIA_MEDIA,STELLARIA MEDIA,https://pubchem.ncbi.nlm.nih.gov/compound/Stellaria%20Media,90131-34-3,No CAS info,N/A,y,y
+STERCULIA_GUM,STERCULIA GUM,https://pubchem.ncbi.nlm.nih.gov/compound/Karaya%20Gum,"9000-36-6, 9004-53-9, 91671-85-1","9000-36-6, 91671-85-1","9000-36-6, 91671-85-1",y,y
+SULFADIAZINE,SULFADIAZINE,https://pubchem.ncbi.nlm.nih.gov/compound/5215,"22199-08-2, 68-35-9",68-35-9,"68-35-9, 22199-08-2",n,y
+SULFAMETHOXAZOLE,SULFAMETHOXAZOLE,https://pubchem.ncbi.nlm.nih.gov/compound/5329,"144930-01-8, 144993-89-5, 575-82-6, 723-46-6","144930-01-8, 144993-89-5, 723-46-6","723-46-6, 144930-01-8, 144993-89-5",y,y
+SULFUR,SULFUR,https://pubchem.ncbi.nlm.nih.gov/compound/5362487,"10544-50-0, 1302-78-9, 7704-34-9, 9035-99-8","10544-50-0, 56996-94-2, 7704-34-9, 9035-99-8","7704-34-9, 56996-94-2, 9035-99-8, 10544-50-0",y,y
+TADALAFIL,TADALAFIL,https://pubchem.ncbi.nlm.nih.gov/compound/110635,"171596-27-3, 171596-29-5",171596-29-5,"171596-29-5, 171596-27-3",n,y
+TAMOXIFEN,TAMOXIFEN,https://pubchem.ncbi.nlm.nih.gov/compound/2733526,"10540-29-1, 54965-24-1",10540-29-1,10540-29-1,y,y
+TAMSULOSIN,TAMSULOSIN,https://pubchem.ncbi.nlm.nih.gov/compound/129211,"106133-20-4, 106463-17-6, 94666-07-6",106133-20-4,106133-20-4,y,y
+TARTARIC_ACID,TARTARIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/875,"133-37-9, 526-83-0, 868-14-4","133-37-9, 147-71-7, 526-83-0, 868-14-4","133-37-9, 868-14-4, 147-71-7, 526-83-0",y,y
+TEDUGLUTIDE,TEDUGLUTIDE,https://pubchem.ncbi.nlm.nih.gov/compound/16139605,"197922-42-2, 2250154-64-2",197922-42-2,197922-42-2,y,y
+TEGASEROD,TEGASEROD,https://pubchem.ncbi.nlm.nih.gov/compound/135409453,"145158-71-0, 189188-57-6",145158-71-0,"145158-71-0, 189188-57-6",n,y
+TESTOLACTONE,TESTOLACTONE,https://pubchem.ncbi.nlm.nih.gov/compound/13769,"4416-57-3, 968-93-4",968-93-4,968-93-4,y,y
+THEOPHYLLINE,THEOPHYLLINE,https://pubchem.ncbi.nlm.nih.gov/compound/2153,"58-55-9, 5967-84-0, 8002-89-9","58-55-9, 5967-84-0","58-55-9, 5967-84-0",y,y
+THIOCTIC_ACID,THIOCTIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/864,"1077-28-7, 62-46-4","1077-28-7, 1200-22-2, 62-46-4","1077-28-7, 62-46-4",n,y
+TINIDAZOLE,TINIDAZOLE,https://pubchem.ncbi.nlm.nih.gov/compound/5479,"148159-84-6, 19387-91-8, 25459-12-5, 473-30-3","148159-84-6, 19387-91-8, 25459-12-5","19387-91-8, 148159-84-6, 25459-12-5",y,y
+TIOTIXENE,TIOTIXENE,https://pubchem.ncbi.nlm.nih.gov/compound/941651,"3313-26-6, 5591-45-7","3313-26-6, 49746-04-5, 5591-45-7","3313-26-6, 5591-45-7, 49746-04-5",y,y
+TOBRAMYCIN,TOBRAMYCIN,https://pubchem.ncbi.nlm.nih.gov/compound/36294,"11048-13-8, 32986-56-4, 62169-70-4","11048-13-8, 32986-56-4, 62169-70-4, 79645-27-5","32986-56-4, 11048-13-8, 62169-70-4, 79645-27-5",y,y
+TOLBUTAMIDE,TOLBUTAMIDE,https://pubchem.ncbi.nlm.nih.gov/compound/5505,"16790-49-1, 64-77-7",64-77-7,64-77-7,y,y
+TRASTUZUMAB,TRASTUZUMAB,https://pubchem.ncbi.nlm.nih.gov/compound/Trastuzumab,"180288-69-1, 23713-48-6",180288-69-1,180288-69-1,y,y
+TREPROSTINIL,TREPROSTINIL,https://pubchem.ncbi.nlm.nih.gov/compound/6918140,"289480-64-4, 81846-19-7",81846-19-7,81846-19-7,y,y
+TRETINOIN,TRETINOIN,https://pubchem.ncbi.nlm.nih.gov/compound/444795,"302-79-4, 97950-17-9","302-79-4, 5300-03-8, 97950-17-9","302-79-4, 97950-17-9, 5300-03-8",y,y
+TRICHLORMETHIAZIDE,TRICHLORMETHIAZIDE,https://pubchem.ncbi.nlm.nih.gov/compound/5560,"133-67-5, 3570-29-4",133-67-5,133-67-5,y,y
+TRICHLOROACETIC_ACID,TRICHLOROACETIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/6421,"650-51-1, 76-03-9",76-03-9,76-03-9,y,y
+TRICLOCARBAN,TRICLOCARBAN,https://pubchem.ncbi.nlm.nih.gov/compound/7547,"101-20-2, 97-18-7",101-20-2,101-20-2,y,y
+TRIMETHOPRIM,TRIMETHOPRIM,https://pubchem.ncbi.nlm.nih.gov/compound/5578,"27074-70-0, 738-70-5",738-70-5,738-70-5,y,y
+TRIMETREXATE,TRIMETREXATE,https://pubchem.ncbi.nlm.nih.gov/compound/5583,"52128-35-5, 72828-03-6",52128-35-5,52128-35-5,y,y
+TRIPROLIDINE,TRIPROLIDINE,https://pubchem.ncbi.nlm.nih.gov/compound/5282443,"486-12-4, 550-70-9",486-12-4,"486-12-4, 550-70-9",n,y
+TROSPIUM,TROSPIUM,https://pubchem.ncbi.nlm.nih.gov/compound/Trospium,"10405-02-4, 47608-32-2",47608-32-2,47608-32-2,y,y
+TRYPAN_BLUE,TRYPAN BLUE,https://pubchem.ncbi.nlm.nih.gov/compound/Trypan%20Blue,"2429-74-5, 2602-46-2, 5442-09-1, 72-57-1",72-57-1,72-57-1,y,y
+TRYPSIN,TRYPSIN,https://pubchem.ncbi.nlm.nih.gov/compound/Trypsin,"9002-07-7, 929317-00-0",9002-07-7,9002-07-7,y,y
+UBIDECARENONE,UBIDECARENONE,https://pubchem.ncbi.nlm.nih.gov/compound/5281915,"303-98-0, 4916-59-0, 606-06-4, 7704-04-3","303-98-0, 4916-59-0","303-98-0, 4916-59-0",y,y
+UNDECYLENIC_ACID,UNDECYLENIC ACID,https://pubchem.ncbi.nlm.nih.gov/compound/5634,"112-38-9, 1333-28-4, 3398-33-2, 96451-28-4","112-38-9, 1333-28-4, 96451-28-4","112-38-9, 1333-28-4, 96451-28-4",y,y
+VALDECOXIB,VALDECOXIB,https://pubchem.ncbi.nlm.nih.gov/compound/119607,"133737-32-3, 181695-72-7",181695-72-7,181695-72-7,y,y
+VALGANCICLOVIR,VALGANCICLOVIR,https://pubchem.ncbi.nlm.nih.gov/compound/135413535,"175865-59-5, 175865-60-8",175865-60-8,175865-60-8,y,y
+VANILLIN,VANILLIN,https://pubchem.ncbi.nlm.nih.gov/compound/1183,"121-33-5, 148-53-8",121-33-5,121-33-5,y,y
+VERBENA_OFFICINALIS,VERBENA OFFICINALIS,https://pubchem.ncbi.nlm.nih.gov/compound/Verbena%20officinalis,977000-41-1,No CAS info,N/A,y,y
+VITAMIN_E,VITAMIN E,https://pubchem.ncbi.nlm.nih.gov/compound/Vitamin%20E,"10191-41-0, 1406-18-4, 59-02-9","1406-18-4, 59-02-9","1406-18-4, 59-02-9",y,y
+XANTOFYL,XANTOFYL,https://pubchem.ncbi.nlm.nih.gov/compound/5281243,"127-40-2, 547-17-1",127-40-2,127-40-2,y,y
+XYLANASE,XYLANASE,https://pubchem.ncbi.nlm.nih.gov/compound/9394,"7554-16-7, 9025-57-4","7554-16-7, 9025-57-4, 9068-42-2","9068-42-2, 9025-57-4, 7554-16-7",y,y
+ZIDOVUDINE,ZIDOVUDINE,https://pubchem.ncbi.nlm.nih.gov/compound/35370,"112143-82-5, 147657-30-5, 30516-87-1",30516-87-1,30516-87-1,y,y
