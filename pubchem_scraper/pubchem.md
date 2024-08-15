@@ -1,9 +1,4 @@
-# AJ WLIURA 2024S
-
-<br>
-
 # PubChem Data Collection
-[PubChem](pubchem_scraper/pubchem.md)
 
 ## Goals
 
@@ -60,19 +55,3 @@ final_df['Compound/Substance'] = final_df['Link'].apply(lambda x: 'COMPOUND' if 
 
 Finally, I exported this as a scraped_pubchem_data_final.csv and uploaded it to the SharePoint.
 
-<br>
-
-# InXight Data Collection
-
-<br>
-
-# 📂 Repository Structure
-
-<pre>
-AJ WLIURA 2024S
-├── Inxight Scraper 
-├── PubChem Scraper 
-├── archive
-├── iqvia_to_cortellis_match_by_cas
-└── README.md (you are here)
-</pre>
